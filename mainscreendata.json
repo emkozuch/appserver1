@@ -9,14 +9,14 @@
           "title": "Ocean Movie One",
           "backgroundColor": "#173753",
           "NumEpisodes": "5",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Aute eu aliqua eiusmod laboris culpa exercitation non irure sit sunt commodo minim.Velit id quis esse magna ea eiusmod consectetur enim dolor occaecat do esse.",
           "episodes": [
             {
               "ContentType": "episode",
               "title": "episode 1",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales.",
-              "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+              "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
               "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
               "streamformat": "hls"
             },
@@ -24,7 +24,7 @@
               "ContentType": "episode",
               "title": "episode 2",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales.",
-              "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+              "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
               "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
               "streamformat": "hls"
             },
@@ -32,7 +32,7 @@
               "ContentType": "episode",
               "title": "episode 3",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales.",
-              "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+              "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
               "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
               "streamformat": "hls"
             },
@@ -40,7 +40,7 @@
               "ContentType": "episode",
               "title": "episode 4",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales.",
-              "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+              "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
               "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
               "streamformat": "hls"
             },
@@ -48,7 +48,7 @@
               "ContentType": "episode",
               "title": "episode 5",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales.",
-              "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean1.jpg",
+              "thumbnail": "pkg:/images/thumbnail-ocean1.jpg",
               "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
               "streamformat": "hls"
             }
@@ -58,7 +58,7 @@
           "id": "C456",
           "title": "Ocean Movie Two",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean2.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean2.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#6DAEDB"
@@ -67,7 +67,7 @@
           "id": "C789",
           "title": "Ocean Movie Three",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean3.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean3.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#2892D7"
@@ -76,7 +76,7 @@
           "id": "C012",
           "title": "Ocean Movie Four",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean4.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean4.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#1B4353"
@@ -85,7 +85,7 @@
           "id": "C345",
           "title": "Ocean Movie Five",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean5.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean5.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#1D70A2"
@@ -94,7 +94,7 @@
           "id": "C678",
           "title": "Ocean Movie Six",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean6.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean6.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#173753"
@@ -103,7 +103,7 @@
           "id": "C901",
           "title": "Ocean Movie Seven",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-ocean7.jpg",
+          "thumbnail": "pkg:/images/thumbnail-ocean7.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#6DAEDB"
@@ -117,7 +117,7 @@
           "id": "D123",
           "title": "Forest Movie One",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt.",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-forest1.jpg",
+          "thumbnail": "pkg:/images/thumbnail-forest1.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#6E9151"
@@ -126,7 +126,7 @@
           "id": "D456",
           "title": "Forest Movie Two",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt.",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-forest2.jpg",
+          "thumbnail": "pkg:/images/thumbnail-forest2.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#29402D"
@@ -135,7 +135,7 @@
           "id": "D789",
           "title": "Forest Movie Three",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt.",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-forest3.jpg",
+          "thumbnail": "pkg:/images/thumbnail-forest3.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#0C4226"
@@ -144,7 +144,7 @@
           "id": "D012",
           "title": "Forest Movie Four",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt.",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-forest4.jpeg",
+          "thumbnail": "pkg:/images/thumbnail-forest4.jpeg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#064C23"
@@ -153,7 +153,7 @@
           "id": "D123",
           "title": "Broken Video",
           "description": "This video is broken and will not play.",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-forest5.jpeg",
+          "thumbnail": "pkg:/images/thumbnail-forest5.jpeg",
           "url": "https://broken",
           "streamformat": "hls",
           "backgroundColor": "#193D19"
@@ -167,7 +167,7 @@
           "id": "H123",
           "title": "Desert Movie One",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert1.png",
+          "thumbnail": "pkg:/images/thumbnail-desert1.png",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD289"
@@ -176,7 +176,7 @@
           "id": "H456",
           "title": "Desert Movie Two",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert2.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert2.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FACC6B"
@@ -185,7 +185,7 @@
           "id": "C789",
           "title": "Desert Movie Three",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert3.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert3.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD131"
@@ -194,7 +194,7 @@
           "id": "C012",
           "title": "Desert Movie Four",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert4.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert4.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F5B82E"
@@ -203,7 +203,7 @@
           "id": "C345",
           "title": "Desert Movie Five",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert5.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert5.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F4AC32"
@@ -217,7 +217,7 @@
           "id": "H123",
           "title": "Desert Movie One",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert1.png",
+          "thumbnail": "pkg:/images/thumbnail-desert1.png",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD289"
@@ -226,7 +226,7 @@
           "id": "H456",
           "title": "Desert Movie Two",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert2.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert2.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FACC6B"
@@ -235,7 +235,7 @@
           "id": "C789",
           "title": "Desert Movie Three",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert3.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert3.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD131"
@@ -244,7 +244,7 @@
           "id": "C012",
           "title": "Desert Movie Four",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert4.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert4.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F5B82E"
@@ -253,7 +253,7 @@
           "id": "C345",
           "title": "Desert Movie Five",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert5.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert5.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F4AC32"
@@ -267,7 +267,7 @@
           "id": "H123",
           "title": "Desert Movie One",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert1.png",
+          "thumbnail": "pkg:/images/thumbnail-desert1.png",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD289"
@@ -276,7 +276,7 @@
           "id": "H456",
           "title": "Desert Movie Two",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert2.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert2.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FACC6B"
@@ -285,7 +285,7 @@
           "id": "C789",
           "title": "Desert Movie Three",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert3.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert3.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#FFD131"
@@ -294,7 +294,7 @@
           "id": "C012",
           "title": "Desert Movie Four",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert4.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert4.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F5B82E"
@@ -303,7 +303,7 @@
           "id": "C345",
           "title": "Desert Movie Five",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-          "thumbnail": "http://192.168.0.121:8000/rowListApp/images/thumbnail-desert5.jpg",
+          "thumbnail": "pkg:/images/thumbnail-desert5.jpg",
           "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
           "streamformat": "hls",
           "backgroundColor": "#F4AC32"
